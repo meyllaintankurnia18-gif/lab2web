@@ -24,3 +24,27 @@
             </tr>
 
 </table> 
+
+## Nilai Pratikum
+<table border="2">
+            <tr>
+                <td>No</td>
+                <td>Nama</td>
+                <td>Nilai</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Aulia</td>
+                <td>85</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Dyah</td>
+                <td>90</td>
+            </tr>
+            <tr>
+                <td>312510196</td>
+                <td>Meylla</td>
+                <td>95</td>
+            </tr>
+</table> 
