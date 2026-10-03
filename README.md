@@ -48,3 +48,23 @@
                 <td>95</td>
             </tr>
 </table> 
+
+## Form Biodata
+### Fitur Form Biodata
+- Nama
+- Email
+- Program Studi
+- Alamat
+- Tombol Simpan
+- Tombol Reset
+
+### Multimedia
+Project ini juga menggunakan:
+- Audio
+- Video
+
+## Tampilan 
+File utama yang digunakan adalah 'index.html'
+
+## Cara Menjalankan 
+Buka file 'index.html' menggunakan browser.
